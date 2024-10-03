@@ -55,3 +55,5 @@ CREATE TABLE appointment (
 - Implement logging
 - Implement robust authentication
 - Implement authorization & permissions management
+- Github Actions workflow to execute unit tests
+- Dockerize the service
