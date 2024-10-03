@@ -37,6 +37,8 @@ CREATE TABLE appointment (
 ```
 
 - Create a .env file in the root directory populating the values in .env.example
+- Run `go mod download`
+- Run `go run main.go`
 
 ## Assumptions
 - Front-end will constrain time values selectable by the user on the hour, quarter-hour and half-hour
